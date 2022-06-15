@@ -45,11 +45,8 @@ users = {
         "superdrochila": {
             "name": "Drochila",
             "password": "dd5aeaebb6cbd34cef93cfb9b6a00622b3c6980918824b0076bf859c2572dbb0",
-            "fisting": "300$"
+            "fisting": "360$"
         },
-
-
-
 }
 
 
